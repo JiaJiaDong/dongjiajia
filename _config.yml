@@ -21,7 +21,7 @@ timezone: 'Asia/Shanghai' #网站时区。Hexo默认使用您电脑的时区。
 ## gitee配置
 ##url: https://dongjiajia.gitee.io
 ##root: /
-url: https://jiajiadong.github.io/
+#url: https://jiajiadong.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
